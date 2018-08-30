@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="3.0.0.446417" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="DemoNavigationPage.xaml" />
+    <EmbeddedResource Remove="Master_Details.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="DemoNavigationPage.xaml.cs" />
+    <Compile Remove="Master_Details.xaml.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{61CA8EC2-99DB-4C06-B22B-4024EB8C9657}|Default">
+  <MonoDevelop.Ide.ItemProperties.DemoPage.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E1213BC7-9447-4CA4-868D-3CB5D33C98C8" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoPage/App.xaml.cs">
+    <Files>
+      <File FileName="DemoPage/Page4.xaml" Line="8" Column="41" />
+      <File FileName="DemoPage/Page4.xaml.cs" Line="23" Column="1" />
+      <File FileName="DemoPage/DemoCarouselPage.xaml" Line="36" Column="1" />
+      <File FileName="DemoPage/DemoCarouselPage.xaml.cs" Line="16" Column="1" />
+      <File FileName="DemoPage/App.xaml" Line="12" Column="15" />
+      <File FileName="DemoPage/App.xaml.cs" Line="23" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vivelabtunja25/Desktop/DemoPages/DemoPage/DemoPage/Master_Details.xaml.cs" relfile="DemoPage/Master_Details.xaml.cs" line="12" column="32" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DemoPage.Android PreferredExecutionTarget="9e8339af-c751-46e4-9521-bb1e752d1588" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>
